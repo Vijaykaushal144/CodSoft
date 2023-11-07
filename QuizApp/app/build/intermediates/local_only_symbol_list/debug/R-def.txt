@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color quiz_app
+color teal_200
+color teal_700
+color white
+drawable back
+drawable brain
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable next_btn_shape
+id card_optA
+id card_optB
+id card_optC
+id card_optD
+id card_optionA
+id card_optionB
+id card_optionC
+id card_optionD
+id card_question
+id ic_back
+id ic_exit
+layout activity_dashboard
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string quizz_app
+style Theme.QuizApp
+style quizzapp
+xml backup_rules
+xml data_extraction_rules
